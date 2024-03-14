@@ -92,7 +92,7 @@ export default class Login extends Component {
         <br></br>
         <p  data-testid='NewUser_Msg'>Doesn't have an account? <a href="/sign-up">Register here</a></p>
         <p className="forgot-password text-right"  data-testid='F_Pwd'>
-          Forgot <a href="#">password?</a>
+{/*           Forgot <a href="#">password?</a> */}
         </p>
       </form>
     )
